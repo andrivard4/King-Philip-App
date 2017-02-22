@@ -1,0 +1,15 @@
+PODS:
+  - AEXML (4.0.1)
+  - QRCodeReader.swift (7.1.2)
+
+DEPENDENCIES:
+  - AEXML
+  - QRCodeReader.swift (~> 7.1.1)
+
+SPEC CHECKSUMS:
+  AEXML: 905e50474c0a261d335aa8be4ee32d22d69b6fd5
+  QRCodeReader.swift: bb503371ba57e6cedf401329e5f0bb3db9532470
+
+PODFILE CHECKSUM: a1215abf506d521efa67049d751b8827bdb9295b
+
+COCOAPODS: 1.1.1
